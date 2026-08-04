@@ -2,7 +2,7 @@
 
 This repository accompanies the blog:
 
-👉 https://yourwebsite.com/rag-fundamentals
+👉 https://geekycodes.in/retrieval-augmented-generation-rag-fundamentals/
 
 It demonstrates a simple Retrieval-Augmented Generation (RAG) pipeline using:
 
